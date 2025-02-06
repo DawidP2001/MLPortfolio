@@ -1,1 +1,1 @@
-This is a portfolio containing jupiter notebooks for my machine learning portfolio
+This is a repo containing jupiter notebooks for my machine learning portfolio
