@@ -25,5 +25,5 @@ This repository contains various machine learning models within jupyter notebook
     2. Long Short-Term Memory - Sentiment analysis of movie reviews
 
 ## Contact
-You can contact me on [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/dawid-pionk-65983a263/))
+You can contact me on [LinkedIn](https://www.linkedin.com/in/dawid-pionk-65983a263/) <br>
 Check out my website at [dawidpionk.com](https://www.dawidpionk.com/)
